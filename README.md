@@ -1,4 +1,4 @@
 ## **Versions:**
-[Gravity Version 1](katescapedsgn.github.io/gravity/version1)
+[Gravity Version 1](https://katescapedsgn.github.io/gravity/version1)
 
-[Gravity Version 2](katescapedsgn.github.io/gravity/version2)
+[Gravity Version 2](https://katescapedsgn.github.io/gravity/version2)
